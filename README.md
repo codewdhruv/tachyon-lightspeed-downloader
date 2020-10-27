@@ -27,10 +27,6 @@ $ pip install -r requirements.txt
 $ python lightspeed.py 
 ```
 
-## Project Demo
-
-![](https://github.com/dhrubajyoti89/tachyon-lightspeed-downloader/blob/master/ss.png)
-
 Feel free to mail me for any doubts/query 
 :email: codewdhruv@gmail.com
 
